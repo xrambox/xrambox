@@ -63,11 +63,11 @@
 
 ### Neurodegenerative Disorder of Ageing using Neural Networks
 - Published a paper exploring the progression of early Parkinson's disease using neural networks.
-- [Link to Paper](#)
+- [https://ieeexplore.ieee.org/document/9793136](#)
 
 ### Breaking Down Barriers: Next-Generation Techniques for Segmenting Medical Abstract Text using DeBERTa-V3
 - Developed an NLP model with DeBERTa-v3 Base to enhance readability and segmentation of medical research abstracts.
-- [Link to Paper](#)
+- [https://ieeexplore.ieee.org/document/10838006](#)
 
 ### IoTech Homes
 - Developed a mobile application for advanced home automation using IoT technology.
@@ -79,8 +79,4 @@
 - Data Manipulation with Pandas (DataCamp)
 - Intermediate Python (DataCamp)
 - Introduction to Python (DataCamp)
-
-## Graphics for Coders
-
-![Coding Graphic](https://via.placeholder.com/600x400?text=Coding+Graphic)
 
